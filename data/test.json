@@ -1,0 +1,67 @@
+[
+    {
+        "type": "C.C.",
+        "id": "1098792506",
+        "name": "Jhonatan Felipe",
+        "lastname": "Gutierrez Gomez",
+        "age": 27,
+        "address": "Calle 104 h #5a42",
+        "contact_numbers": [
+            "3133006813",
+            "3138069509"
+        ],
+        "legal_rep": {
+            "full_name": "Maria Rosmira Gomez",
+            "contact_number": "22028295"
+        },
+        "status": 2,
+        "trainer": "Miguel",
+        "classroom": "Artemis",
+        "training_path": "NodeJS",
+        "grades": [
+            {
+                "theory": 60,
+                "practice": 80,
+                "avg": 70.0
+            },
+            {
+                "number": 1,
+                "theory": 60,
+                "practice": 80,
+                "quizzes_avg": 60.0,
+                "avg": 72.0
+            }
+        ],
+        "warnings": 0,
+        "schedule": "06:15-10:00",
+        "start_date": "09-01-2024",
+        "end_date": "09-11-2024"
+    },
+    {
+        "type": "T.I.",
+        "id": "1234567890",
+        "name": "Ana Maria",
+        "lastname": "Rodriguez",
+        "age": 27,
+        "address": "Carrera 70 #45-67",
+        "contact_numbers": [
+            "3112345678"
+        ],
+        "legal_rep": {},
+        "status": 0,
+        "trainer": null,
+        "classroom": null,
+        "training_path": null,
+        "grades": [
+            {
+                "theory": 50,
+                "practice": 40,
+                "avg": 45.0
+            }
+        ],
+        "warnings": 0,
+        "schedule": null,
+        "start_date": null,
+        "end_date": null
+    }
+]
